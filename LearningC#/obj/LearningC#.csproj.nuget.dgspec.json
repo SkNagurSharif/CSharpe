@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\naguroutlookGithub\\CSharpe\\LearningC#\\LearningC#.csproj": {}
+    "D:\\naguroutlookGithub\\CSharpe\\LearningC#\\LearningC#.csproj": {}
   },
   "projects": {
-    "d:\\naguroutlookGithub\\CSharpe\\LearningC#\\LearningC#.csproj": {
+    "D:\\naguroutlookGithub\\CSharpe\\LearningC#\\LearningC#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\naguroutlookGithub\\CSharpe\\LearningC#\\LearningC#.csproj",
+        "projectUniqueName": "D:\\naguroutlookGithub\\CSharpe\\LearningC#\\LearningC#.csproj",
         "projectName": "LearningC#",
-        "projectPath": "d:\\naguroutlookGithub\\CSharpe\\LearningC#\\LearningC#.csproj",
+        "projectPath": "D:\\naguroutlookGithub\\CSharpe\\LearningC#\\LearningC#.csproj",
         "packagesPath": "C:\\Users\\nagursharif.shaik\\.nuget\\packages\\",
-        "outputPath": "d:\\naguroutlookGithub\\CSharpe\\LearningC#\\obj\\",
+        "outputPath": "D:\\naguroutlookGithub\\CSharpe\\LearningC#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nagursharif.shaik\\AppData\\Roaming\\NuGet\\NuGet.Config"

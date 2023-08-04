@@ -1,3 +1,6 @@
 {
-    "dotnet.defaultSolution": "LearningC#.sln"
+    "dotnet.defaultSolution": "LearningC#.sln",
+    "editor.fontFamily": "Consolas, 'Courier New', monospace",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": false,
+    "scm.alwaysShowActions": false
 }
