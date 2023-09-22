@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "D:\\naguroutlookGithub\\CSharpe\\LearningC#\\LearningC#.csproj": {}
+    "d:\\naguroutlookGithub\\CSharpe\\LearningC#\\LearningC#.csproj": {}
   },
   "projects": {
-    "D:\\naguroutlookGithub\\CSharpe\\LearningC#\\LearningC#.csproj": {
+    "d:\\naguroutlookGithub\\CSharpe\\LearningC#\\LearningC#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\naguroutlookGithub\\CSharpe\\LearningC#\\LearningC#.csproj",
+        "projectUniqueName": "d:\\naguroutlookGithub\\CSharpe\\LearningC#\\LearningC#.csproj",
         "projectName": "LearningC#",
-        "projectPath": "D:\\naguroutlookGithub\\CSharpe\\LearningC#\\LearningC#.csproj",
+        "projectPath": "d:\\naguroutlookGithub\\CSharpe\\LearningC#\\LearningC#.csproj",
         "packagesPath": "C:\\Users\\nagursharif.shaik\\.nuget\\packages\\",
-        "outputPath": "D:\\naguroutlookGithub\\CSharpe\\LearningC#\\obj\\",
+        "outputPath": "d:\\naguroutlookGithub\\CSharpe\\LearningC#\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\nagursharif.shaik\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\nagursharif.shaik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.412\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
